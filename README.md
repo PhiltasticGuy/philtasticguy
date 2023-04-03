@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a software architect and full stack developer with over 15 years of experience in `.NET` and `Microsoft technologies`. In 2022, I completed a `Master's degree in Computer Science` at Avignon Université (France) where I finally had the opportunity to dive into `machine learning (ML)` and `natural language processing (NLP)`.
+
+- 🔭 I’m currently working on `HobbyStacks` and `TEAfam`.
+- 🌱 I’m currently learning more about `Vue.js`, `microservices` and `domain-driven development (DDD)`.
+- 💬 I'm always available to chat about `elegant software solutions`, `cloud-native architectures` and `emerging/disruptive technologies`.
+- ⚡ Fun fact: I'm an avid rock climber, and I run half-marathons on trails to relax (preferably in the mountains).
+
 <!--
 **PhiltasticGuy/philtasticguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
